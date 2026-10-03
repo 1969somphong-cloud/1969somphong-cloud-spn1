@@ -1,0 +1,10 @@
+{
+  "name": "VAYU Alert - ระบบเตือนภัยและพยากรณ์อากาศเรียลไทม์",
+  "description": "ระบบตรวจวัดและเตือนภัยสภาพอากาศฉุกเฉินแบบเรียลไทม์ พยากรณ์ฝนฟ้าคะนอง น้ำท่วมฉับพลัน พายุ และมลพิษ PM2.5 ด้วยข้อมูลดาวเทียมและ AI วิเคราะห์ความเสี่ยง",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
